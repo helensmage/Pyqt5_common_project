@@ -1,0 +1,7 @@
+1 "Гараж", https://tvextra.ru/wp-content/uploads/2021/01/bez-nazvaniya-1.jpg
+2 Стеклянный дом, https://www.gumilev-center.ru/wp-content/uploads/2020/12/zagruzheno-5.jpg
+3 "Улий", https://journal.homemania.ru/media/editor/cached/2d4ea18a8917e7b02dabdd69db836bfcadce10cfe2b272e3c44f2d4616dd6854_1200_1200.jpeg
+4 "Пирамида", http://readweb.org/upkeep/uploads/2020/09/1-376.jpg
+5 "Бункер", https://avatars.mds.yandex.net/get-zen_doc/1110951/pub_5b866ee247174c00aab19f4d_5b866f90d3054c00aaa81ab0/scale_1200
+6 "Пузырик", https://hitecher.com/storage/img/20190423/40996b24390c67fe6284.jpg
+7 Небоскрёб, https://avatars.mds.yandex.net/get-zen_doc/209388/pub_5aa6aabd1410c30c8cd602a8_5aa6ac95d7bf2188e799b68e/scale_1200
